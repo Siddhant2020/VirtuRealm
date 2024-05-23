@@ -22,7 +22,7 @@ function HeroSection() {
         <a href="#" className='bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 rounded-md'>
           Start for free
         </a>
-        <a href="#" className='px-3 py-4 mx-3 border rounded-md'>
+        <a href="#" className='py-3 px-4 mx-3 border rounded-md'>
           Documention
         </a>
       </div>
